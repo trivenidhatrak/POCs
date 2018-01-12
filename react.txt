@@ -49,9 +49,6 @@ https://github.com/trivenidhatrak/react_app
 https://www.tutorialspoint.com/reactjs/reactjs_component_api.htm
 
 
-trivenidhatrak
-
-
 https://www.themezy.com/demos/10-movie-reviews-responsive-template
 
 https://auth0.com/blog/reactjs-authentication-tutorial/
