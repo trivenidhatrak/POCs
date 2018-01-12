@@ -1,0 +1,77 @@
+
+React Command :
+--------------
+npm init
+create_react_app my_react_app -- to create app
+nmp start - to run programm
+ 
+npm set strict-ssl false
+
+npm install react-router-dom for router
+
+install babel extension
+
+npm install -g babel
+
+npm install axios -- ajax
+
+npm install webpack --save
+
+npm cache clean
+
+
+
+
+
+
+
+
+https://reactjs.org/tutorial/tutorial.html
+
+
+https://reactjs.org/docs/components-and-props.html
+
+
+https://www.tutorialspoint.com/reactjs/reactjs_props_overview.htm
+
+
+https://codepen.io/pen?&editors=0010
+
+
+https://reactjs.org/docs/components-and-props.html
+
+
+https://www.themoviedb.org/settings/api
+
+
+https://github.com/trivenidhatrak/react_app
+
+https://www.tutorialspoint.com/reactjs/reactjs_component_api.htm
+
+
+trivenidhatrak
+
+
+https://www.themezy.com/demos/10-movie-reviews-responsive-template
+
+https://auth0.com/blog/reactjs-authentication-tutorial/
+
+https://stormpath.com/blog/build-a-react-app-with-user-authentication
+
+
+https://scotch.io/tutorials/build-a-react-app-with-user-authentication
+
+
+https://www.npmjs.com/package/react-cookies
+
+https://github.com/bukinoshita/react-cookies
+
+
+https://www.youtube.com/watch?v=5IH6Mw9FLvQ
+
+
+table-----------------
+
+http://allenfang.github.io/react-bootstrap-table/example.html#celledit   
+
+http://allenfang.github.io/react-bootstrap-table/start.html
