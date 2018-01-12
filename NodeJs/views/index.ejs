@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1>Country Details :</h1>
+    <p></p>
+
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Country</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% allCountries.forEach(function(allCountries) { %>
+          <tr>
+              <td><%= allCountries.country %></td>
+              
+              <td>
+                  <div class="btn-group">
+                          <a type="button" class="btn btn-primary" href="http://localhost:3000/airportdata/<%= allCountries.country %>">Airport Information</button>
+                         
+                  </div>
+              </td>
+          </tr>
+        <% }); %>
+      </tbody>
+    </table>
+
+
+
+  </body>
+</html>

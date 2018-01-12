@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><a href="http://localhost:3000">Airport</a></h1>
+    <p></p>
+
+    <table class="table">
+    <% if(typeof allcontryAirport != "undefined") {%> <thead>
+        <tr>
+          <th>Airport Code</th>
+          <th>Airport Name</th>
+        
+        </tr>
+      </thead>
+      <tbody>
+        <% allcontryAirport.forEach(function(allcontryAirport) { %>
+          <tr>
+              <td><%= allcontryAirport.AirportCode %></td>
+              <td><%= allcontryAirport.CityOrAirportName %></td>
+         
+          </tr>
+        <% });} else {%>
+         Data not avialable 
+       <% }%>
+      </tbody>
+    </table>
+
+
+
+  </body>
+</html>
