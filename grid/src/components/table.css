@@ -1,0 +1,44 @@
+
+.btn{
+    margin-left: 5px;
+  }
+  .btnGlyphicon{
+    float: right;
+  }
+  .tableHeaders{
+  width: 200px;
+  padding-top: 10px;
+  }
+  .mainSection{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .tableContent{
+    padding-top: 50px;
+    padding-left: 15px;
+  }
+  table{
+    padding: 20px;
+    width: 300px;
+    resize: both;
+    overflow: auto;
+  }
+  td{
+    padding: 20px;
+    width: 300px;
+    resize: both;
+    overflow: auto;
+  }
+  th{
+    padding: 20px;
+    width: 300px;
+    resize: both;
+    overflow: auto;
+  }
+  tr{
+    padding: 20px;
+    width: 300px;
+    resize: both;
+    overflow: auto;
+  }
+  
