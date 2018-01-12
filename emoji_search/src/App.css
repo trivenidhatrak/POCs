@@ -1,0 +1,52 @@
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+table{
+  width: 100%;
+}
+input
+{
+  width: 95%;
+  padding: 10px;
+}
+.emoji-img
+{
+  width :50px;
+  
+}
+.emoji-img img
+{
+  width :30px;
+}
+td
+{
+  border-bottom: 1px solid #DCDCDC;
+}
+.search-div
+{
+  border-bottom: 1px solid #DCDCDC;
+  padding-bottom: 10px;
+}
